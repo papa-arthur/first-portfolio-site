@@ -2,7 +2,7 @@
 // Replace the parameters below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("scary")
+favouriteMovieGenre("cowboy")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
 favouriteFruit("avocado")
